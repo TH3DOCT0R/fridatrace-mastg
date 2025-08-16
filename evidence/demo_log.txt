@@ -1,4 +1,0 @@
-[*] SSL pinning bypass installed
-[OKHTTP] GET https://api.example.com/v1/profile
-User-Agent: ExampleApp/1.0
-Authorization: Bearer <redacted>
